@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LukLand.aternos.me",
+    "ip": "LukLand.aternos.me:",
     "port": 64773,
     "version": "",
     "try-creative": false
